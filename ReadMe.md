@@ -1,5 +1,5 @@
 #                     💫 Hi 👋, I'm Feride Tugce DEVECI BAYRAKTAR
-##                     A passionate Data Scientist from Turkey<br><br>
+## A passionate Data Scientist from Turkey<br><br>
 🔭 I’m currently working on DataScience,<br>
 ⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br>
 👀 I’m interested in Machine Learning<br>
@@ -8,7 +8,7 @@
 👯 Fun fact I'm interested in Art and Science
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/feride-tugce-deveci-bayraktar/) 
 
 # 💻 Tech Stack:
