@@ -1,10 +1,10 @@
 #                                💫 Hi 👋, I'm Feride Tugce DEVECI BAYRAKTAR
 
-🔭 I’m currently working on #DataScience#,<br><br>
-⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br>
-👀 I’m interested in Machine Learning<br>
-📫 How to reach me ftugce.deveci@gmail.com<br>
-💬 Ask me about DataScience<br>
+🔭 I’m currently working on DataScience,<br><br>
+⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br><br>
+👀 I’m interested in Machine Learning<br><br>
+📫 How to reach me ftugce.deveci@gmail.com<br><br>
+💬 Ask me about DataScience<br><br>
 👯 Fun fact I'm interested in Art and Science
 
 
