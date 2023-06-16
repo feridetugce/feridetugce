@@ -1,4 +1,4 @@
-#                                💫 Hi 👋, I'm Feride Tugce DEVECI BAYRAKTAR
+#                                💫 Hi 👋, I'm Feride DEVECI
 
 🔭 I’m currently working on DataScience,<br><br>
 ⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br><br>
