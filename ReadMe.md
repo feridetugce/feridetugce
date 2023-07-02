@@ -1,7 +1,8 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/feridetugce/feridetugce/assets/115112456/c4062cd1-e53d-400d-aaca-928b76f5223b)
 
 
-#                                          💫 Hi 👋, I'm Feride DEVECI
+#​                                              💫 Hi 👋, I'm Feride DEVECI
+
 
 🔭 I’m currently working on DataScience,<br><br>
 ⚡ Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)<br><br>
