@@ -7,7 +7,7 @@
 👀 I’m interested in Machine Learning<br><br>
 📫 How to reach me ftugce.deveci@gmail.com<br><br>
 💬 Ask me about DataScience<br><br>
-👯 Fun fact I'm interested in Free Diving
+🐬 Fun fact! I'm interested in Free Diving
 
 
 ## 💻 Tech Stack:
